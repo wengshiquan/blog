@@ -84,7 +84,7 @@ params:
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: 17Null
-    author_title: author title
+    author_title: Java Developer
     author_description: Good Good Study, Day Day Up~
     location: Shanghai, China
     follow: https://github.com/wengshiquan
