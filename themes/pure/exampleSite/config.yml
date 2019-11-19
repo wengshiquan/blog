@@ -1,7 +1,7 @@
 baseURL: https://example.com/
 theme: pure
-title: 17Null的博客
-defaultContentLanguage: zh  # en/zh/...
+title: Pure theme for Hugo
+defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
 hasCJKLanguage: true
 paginate: 7
@@ -33,31 +33,31 @@ menu:
   main:
     - identifier: home
       name: Home
-      title: 主页 
+      title: Home 
       url: /
       weight: 1
 
     - identifier: archives
       name: Archives
-      title: 归档
+      title: Archives
       url: /posts
       weight: 2
 
     - identifier: categories
       name: Categories
-      title: 分类
+      title: Categories
       url: /categories
       weight: 3
 
     - identifier: tags
       name: Tags
-      title: 标签
+      title: Tags
       url: /tags
       weight: 4
 
     - identifier: about
       name: About
-      title: 关于
+      title: About
       url: /about
       weight: 5
 
@@ -83,15 +83,15 @@ params:
     enabled: true # Whether to show profile bar
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-    author: 17Null
+    author: xiaoheiAh
     author_title: author title
     author_description: Good Good Study, Day Day Up~
     location: Shanghai, China
-    follow: https://github.com/wengshiquan
+    follow: https://github.com/xiaoheiAh
     # Social Links
     social:
       links:
-        github: https://github.com/wengshiquan
+        github: https://github.com/xiaoheiAh
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
         # facebook: /
@@ -106,7 +106,7 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>java程序员~</p> # 公告牌
+    board: <p>enjoy~</p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
@@ -165,7 +165,7 @@ params:
 
   # config
   config:
-    skin: theme-black # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
+    skin: # theme color default is white. other type [theme-black,theme-blue,theme-green,theme-purple]
     layout: main-center # 布局方式 main-left main-center main-right
     excerpt_link: Read More
     toc: true
