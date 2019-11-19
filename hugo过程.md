@@ -1,14 +1,19 @@
 hugo new site myblog
 
-git clone https://github.com/vaga/hugo-theme-m10c.git themes/m10c
+git clone https://github.com/xiaoheiAh/hugo-theme-pure themes/pure 
 
 本地启动项目：
-hugo server -t m10c --buildDrafts
 
-hugo new post/blog.md
+hugo server -t pure --buildDrafts
+
+hugo new posts/any.md 
+
+
 
 刷新public文件夹：
-hugo --theme=m10c --baseUrl="https://wengshiquan.github.io/" --buildDrafts
+hugo --theme=pure --baseUrl="https://wengshiquan.github.io/" --buildDrafts
+
+
 
 cd public
 
