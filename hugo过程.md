@@ -6,6 +6,8 @@ git clone https://github.com/xiaoheiAh/hugo-theme-pure themes/pure
 
 hugo server -t pure --buildDrafts
 
+新建md文件（当前时间）
+
 hugo new posts/any.md 
 
 
