@@ -2,17 +2,18 @@ hugo new site myblog
 
 git clone https://github.com/xiaoheiAh/hugo-theme-pure themes/pure 
 
-本地启动项目：
+##### 本地启动项目：
 
 hugo server -t pure --buildDrafts
 
-新建md文件（当前时间）
+##### 新建md文件（当前时间）
 
 hugo new posts/any.md 
 
 
 
-刷新public文件夹：
+##### 刷新public文件夹：
+
 hugo --theme=pure --baseUrl="https://wengshiquan.github.io/" --buildDrafts
 
 
