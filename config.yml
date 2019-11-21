@@ -37,29 +37,36 @@ menu:
       url: /
       weight: 1
 
-    - identifier: archives
-      name: Archives
-      title: 归档
-      url: /posts
-      weight: 2
+ #   - identifier: archives
+ #     name: Archives
+ #     title: 归档
+ #     url: /posts
+ #     weight: 2
 
-    - identifier: categories
-      name: Categories
-      title: 分类
-      url: /categories
-      weight: 3
+#    - identifier: categories
+#      name: Categories
+#     title: 分类
+#     url: /categories
+#      weight: 3
 
-    - identifier: tags
-      name: Tags
-      title: 标签
-      url: /tags
-      weight: 4
+#    - identifier: tags
+#      name: Tags
+#      title: 标签
+#      url: /tags
+#      weight: 4
+
+    - identifier: reprint
+      name: Reprint
+      title: 转载
+      url: /reprint
+      weight: 5
 
     - identifier: about
       name: About
       title: 关于
       url: /about
-      weight: 5
+      weight: 6
+
 
 
 params:
@@ -77,6 +84,7 @@ params:
     books: icon-book-fill
     links: icon-friendship
     about: icon-cup-fill
+    reprint: icon-star-fill
 
   # profile
   profile:
@@ -106,7 +114,7 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>java程序员~</p> # 公告牌
+    board: <p>一直想做前端的java程序员~</p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
