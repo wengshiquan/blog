@@ -8,6 +8,7 @@ draft: true
 可查询的关键词：
 
 前端：【vue】【Hugo】
+Git：【使用技巧】
 ```
 
 ## 前端
@@ -33,3 +34,12 @@ draft: true
 [使用hugo搭建个人博客站点]( https://blog.coderzh.com/2015/08/29/hugo/ )
 
 [bilibili  — 手把手教你从0开始搭建自己的个人博客 |第二种姿势 | hugo](https://www.bilibili.com/video/av51574688?t=466)
+
+
+
+## Git
+
+### [使用技巧]
+
+[DownGit（github单个文件/文件夹下载网站）](https://minhaskamal.github.io/DownGit/#/home)
+
