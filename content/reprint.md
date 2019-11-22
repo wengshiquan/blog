@@ -21,6 +21,9 @@ Git：【使用技巧】
 
 [vue-cli3本地模拟数据之接口封装（二）]( https://www.jianshu.com/p/98d58a2c12e0 )
 
+> demo： [vue-cli3本地模拟数据Demo]( [https://github.com/wengshiquan/projectDemo/tree/master/vue-cli3%E6%9C%AC%E5%9C%B0%E6%A8%A1%E6%8B%9F%E6%95%B0%E6%8D%AEDemo/local-data-demo](https://github.com/wengshiquan/projectDemo/tree/master/vue-cli3本地模拟数据Demo/local-data-demo) ) 
+>
+
 
 
 ### [Hugo]
