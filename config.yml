@@ -23,6 +23,7 @@ outputFormats:          # use for search. recommend not to modify
     
 outputs:
     home: ["HTML","RSS","SearchIndex"]  # recommend not to modify
+    
 # sitemap
 sitemap:
   changefreq: monthly

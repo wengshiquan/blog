@@ -14,7 +14,11 @@ Git：【使用技巧】
 
 ## 前端
 
-### [vue]
+### [VUE]
+
+##### 搭建vue项目：
+
+- [使用Vue-cli 3.0搭建Vue项目](https://www.jianshu.com/p/6307c568832d/)
 
 ##### 模拟数据：
 
@@ -26,6 +30,12 @@ Git：【使用技巧】
 >
 
 
+
+### [样式]
+
+- [JQuery之家](http://www.htmleaf.com/)
+
+- [JQuery插件库](http://www.jq22.com/)
 
 ### [Hugo]
 
@@ -39,23 +49,21 @@ Git：【使用技巧】
 
 - [bilibili  — 手把手教你从0开始搭建自己的个人博客 |第二种姿势 | hugo](https://www.bilibili.com/video/av51574688?t=466)
 
-
+<br><br>
 
 ## Git
 
 ### [使用技巧]
 
-- [DownGit（github单个文件/文件夹下载网站） 好像需要翻墙 ](https://minhaskamal.github.io/DownGit/#/home)
+- [DownGit（github单个文件/文件夹下载网站）  ](https://minhaskamal.github.io/DownGit)   好像需要翻墙
 
-
+<br><br>
 
 ## 随意收集
 
 - [收集免费的接口服务,做一个api的搬运工](https://github.com/fangzesheng/free-api) 
-
+- [codelf  参数取名网站](https://unbug.github.io/codelf/)
 - [招商银行白嫖活动链接](https://www.iqshw.com/e/search/result/?searchid=109146)
-
 - [阴阳师悬赏封印查询器](http://cc.koncoo.com/yys/default.aspx)
-
 - [阴阳师御魂搭配hub](https://yuhunhub.gitee.io)
 
