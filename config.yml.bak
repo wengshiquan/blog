@@ -102,7 +102,7 @@ params:
     social:
       links:
         github: https://github.com/wengshiquan
-        tags: https://gitee.com/w17null
+        tags: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
         # facebook: /
         rss: /index.xml
