@@ -65,6 +65,7 @@ Git：【使用技巧】
 
 - [收集免费的接口服务,做一个api的搬运工](https://github.com/fangzesheng/free-api) 
 - [codelf  参数取名网站](https://unbug.github.io/codelf/)
+- [免费正版高清图片素材库](https://pixabay.com/zh/)
 - [招商银行白嫖活动链接](https://www.iqshw.com/e/search/result/?searchid=109146)
 - [阴阳师悬赏封印查询器](http://cc.koncoo.com/yys/default.aspx)
 - [阴阳师御魂搭配hub](https://yuhunhub.gitee.io)
